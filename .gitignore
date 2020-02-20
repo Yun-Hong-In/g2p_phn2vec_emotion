@@ -1,0 +1,9 @@
+.vscode
+.ipynb_checkpoints/
+./speech_embeddings/
+g2p-seq2seq-model-6.2-cmudict-nostress
+word2vec-nlp-tutorial.zip
+g2p-seq2seq-cmudict.tar.gz
+ign
+google_word_list
+phonemes
